@@ -1,5 +1,5 @@
-                                                          NAME: KISHORE N
-                                                          REG NO. 212222240049
+                                                             NAME: KISHORE N
+                                                             REG NO. 212222240049
 # EX-1: Mean and variance of a discrete  distribution
 
 # Aim : 
